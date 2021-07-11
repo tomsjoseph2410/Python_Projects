@@ -2,3 +2,4 @@
 
 Here I used Python - Selenium to collect data from Youtube  
 Using Pandas the collected data was then processed  
+The Data is then shared to whatsapp using pywhatkit
